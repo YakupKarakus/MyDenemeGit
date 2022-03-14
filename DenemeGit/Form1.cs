@@ -21,6 +21,7 @@ namespace DenemeGit
         {
             MessageBox.Show("Mustafa ve Çağlar atışıyore");
             MessageBox.Show("Mustafa ve Çağlar konuşuyor");
+            MessageBox.Show("Mustafa ve Çağlar konuşuyor");
         }
     }
 }
