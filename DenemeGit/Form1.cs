@@ -16,5 +16,11 @@ namespace DenemeGit
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Mustafa ve Çağlar atışıyore");
+            MessageBox.Show("Mustafa ve Çağlar konuşuyor");
+        }
     }
 }
